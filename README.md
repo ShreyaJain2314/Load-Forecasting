@@ -1,4 +1,4 @@
-# Load-Forecasting
+# Time-Series Forecasting
 
 The project you've described focuses on forecasting the natural demand (nat_demand) using machine learning models. Here's an overview of the project:
 
